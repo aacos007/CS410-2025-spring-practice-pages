@@ -7,3 +7,9 @@
 ## HTML & CSS Resources
 [HTML](https://www.w3schools.com/HTML/default.asp)
 [CSS](https://www.w3schools.com/CSS/default.asp)
+
+## JavaScript Reference
+T.B.W.
+
+# Notes
+By default, README.md will be used as your GitHub Pages site's index.html (i.e. landing/home page)
